@@ -18,3 +18,22 @@ IP/Domain <br/>
 Hash(md5,sha1,sha256) <br/>
 Attack patterns <br/>
 
+# Request Example:
+```
+GET /api/check_ioc?key=1b6e0098f67d09fdece599b84b7ccb25&token=xxxxxxxxx HTTP/1.1
+Host: ioc.ghtk.vn
+```
+
+# Response Example:
+```
+HTTP/1.0 200 OK
+Content-Type: application/json
+Content-Length: 37
+Server: Werkzeug/2.0.1 Python/3.8.2
+Date: Thu, 12 Jan 2023 11:25:36 GMT
+
+{
+  "code": 200, 
+  "result": true
+}
+```
