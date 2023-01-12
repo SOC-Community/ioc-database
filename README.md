@@ -12,3 +12,10 @@ https://openphish.com <br/>
 http://vxvault.net <br/>
 https://sslbl.abuse.ch <br/>
 http://cybercrime-tracker.net <br/>
+
+#IoC Patterns:
+IP/Domain
+Hash(md5,sha1,sha256)
+Attack patterns
+
+#IoC 
