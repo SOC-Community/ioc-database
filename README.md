@@ -13,7 +13,7 @@ http://vxvault.net <br/>
 https://sslbl.abuse.ch <br/>
 http://cybercrime-tracker.net <br/>
 
-#IoC Patterns:
+# IoC Patterns:<br/>
 IP/Domain <br/>
 Hash(md5,sha1,sha256) <br/>
 Attack patterns <br/>
