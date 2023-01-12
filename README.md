@@ -1,6 +1,6 @@
 # ioc-database
 Web: https://ioc.ghtk.vn/ <br/>
-Now, our IoC database is more than 59,000,000 items and update real time.<br/>
+Now, our IoC database is more than 59,000,000++ items and update real time.<br/>
 if you want to Download or get API KEY and use free database, please contact email: security@ghtk.co<br/>
 
 # IoC Sources References:
