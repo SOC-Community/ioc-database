@@ -1,7 +1,7 @@
 # ioc-database
 Web: https://ioc.ghtk.vn/ <br/>
 Now, our IoC database is more than 59,000,000++ items and update real time.<br/>
-if you want to Download or get API KEY and use this free database, please contact me on telegram: https://t.me/+U4v8OZYPCzU5ZTBl or email: security@ghtk.co<br/>
+if you want to Download or get API KEY and use this free IoC database, please contact me on telegram: https://t.me/+U4v8OZYPCzU5ZTBl or email: security@ghtk.co<br/>
 
 # IoC Sources References:
 https://virusshare.com <br/>
