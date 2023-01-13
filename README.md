@@ -1,7 +1,7 @@
 # ioc-database
 Web: https://ioc.ghtk.vn/ <br/>
 Now, our IoC database is more than 59,000,000++ items and update real time.<br/>
-if you want to Download or get API KEY and use free database, please contact email: security@ghtk.co<br/>
+if you want to Download or get API KEY and use free database, please contact me on telegram: https://t.me/+U4v8OZYPCzU5ZTBl or email: security@ghtk.co<br/>
 
 # IoC Sources References:
 https://virusshare.com <br/>
@@ -12,6 +12,9 @@ https://openphish.com <br/>
 http://vxvault.net <br/>
 https://sslbl.abuse.ch <br/>
 http://cybercrime-tracker.net <br/>
+Our Internal Threat Hunting <br/>
+SOC Community  <br/>
+And More... <br/>
 
 # IoC Patterns:<br/>
 IP/Domain <br/>
