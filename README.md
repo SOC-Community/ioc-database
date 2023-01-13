@@ -41,3 +41,6 @@ Date: Thu, 12 Jan 2023 11:25:36 GMT
   "result": true
 }
 ```
+
+# Graylog - Lookup Table Example:
+![ảnh](https://user-images.githubusercontent.com/3302470/212227260-bc46aecf-5cef-45eb-a5f1-3557497b8c3a.png)
